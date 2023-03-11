@@ -7,7 +7,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class lr2_task1 {
-    public static void main(String[] args) throws IOException
+    public static void main(String[] args)
     {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите n строк, если ввод окончен, то введите 'q': ");
