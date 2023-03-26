@@ -1,0 +1,84 @@
+;1ksat_2v_5rl egakcap
+
+;etaDlacoL.emit.avaj tropmi
+
+{ tnedutS ssalc cilbup
+;0 = retnuoC tni citats cilbup    
+;puorG ,esruoC ,di tni cilbup    
+;ytlucaF ,enohpeleT ,sserddA ,cimynortaP ,emaNtsriF ,emaNtsaL gnirtS cilbup    
+;yadhtriBfOetaD etaDlacoL cilbup    
+{ )puorg tni ,esruoc tni ,ytlucaf gnirtS ,enohp gnirtS ,sserdda gnirtS ,etaDhtrib etaDlacoL ,emaNelddim gnirtS ,emaNtsrif gnirtS ,emaNtsal gnirtS (tnedutS cilbup    
+;++retnuoC = di.siht        
+;emaNtsal = emaNtsaL.siht        
+;emaNtsrif = emaNtsriF.siht        
+;emaNelddim = cimynortaP.siht        
+;etaDhtrib = yadhtriBfOetaD.siht        
+;sserdda = sserddA.siht        
+;enohp = enohpeleT.siht        
+;ytlucaf = ytlucaF.siht        
+;esruoc = esruoC.siht        
+;puorg = puorG.siht        
+}    
+sretteg//    
+{)(emaNtsaLteg gnirtS cilbup    
+;emaNtsaL.siht nruter        
+}    
+{)(emaNtsriFteg gnirtS cilbup    
+;emaNtsriF.siht nruter        
+}    
+{)(sserddAteg gnirtS cilbup    
+;sserddA.siht nruter        
+}    
+{)(enohpeleTteg gnirtS cilbup    
+;enohpeleT.siht nruter        
+}    
+{)(cimynortaPteg gnirtS cilbup    
+;cimynortaP.siht nruter        
+}    
+{)(ytlucaFteg gnirtS cilbup    
+;ytlucaF.siht nruter        
+}    
+{)(esruoCteg tni cilbup    
+;esruoC.siht nruter        
+}    
+{)(puorGteg tni cilbup    
+;puorG.siht nruter        
+}    
+{)(yadhtriBfOetaDteg etaDlacoL cilbup    
+;yadhtriBfOetaD.siht nruter        
+}    
+{)(dIteg tni cilbup    
+;di.siht nruter        
+}    
+srettes//    
+{ )di tni(dItes diov cilbup    
+;di = di.siht        
+}    
+{ )sserdda gnirtS(sserddAtes diov cilbup    
+;sserddA = sserddA.siht        
+}    
+{ )esruoc tni(esruoCtes diov cilbup    
+;esruoc = esruoC.siht        
+}    
+{ )yadhtriBfOetad etaDlacoL(yadhtriBfOetaDtes diov cilbup    
+;yadhtriBfOetad = yadhtriBfOetaD.siht        
+}    
+{ )ytlucaf gnirtS(ytlucaFtes diov cilbup    
+;ytlucaf = ytlucaF        
+}    
+{ )enohpelet gnirtS(enohpeleTtes diov cilbup    
+;enohpelet = enohpeleT        
+}    
+{ )emaNtsrif gnirtS(emaNtsriFtes diov cilbup    
+;emaNtsrif = emaNtsriF        
+}    
+{ )puorg tni(puorGtes diov cilbup    
+;puorg = puorG        
+}    
+{ )emaNtsal gnirtS(emaNtsaLtes diov cilbup    
+;emaNtsal = emaNtsaL        
+}    
+{ )cimynortap gnirtS(cimynortaPtes diov cilbup    
+;cimynortap = cimynortaP        
+}    
+}

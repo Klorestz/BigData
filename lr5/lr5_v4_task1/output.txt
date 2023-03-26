@@ -1,0 +1,84 @@
+;1ksat_2v_5rl egakcap
+
+;etaDlacoL.emit.avaj tropmi
+
+{ tnedutS ssalc cilbup
+;0 = retnuoC tni citats etavirp    
+;puorG ,esruoC ,di tni etavirp    
+;ytlucaF ,enohpeleT ,sserddA ,cimynortaP ,emaNtsriF ,emaNtsaL gnirtS etavirp    
+;yadhtriBfOetaD etaDlacoL etavirp    
+{ )puorg tni ,esruoc tni ,ytlucaf gnirtS ,enohp gnirtS ,sserdda gnirtS ,etaDhtrib etaDlacoL ,emaNelddim gnirtS ,emaNtsrif gnirtS ,emaNtsal gnirtS (tnedutS etavirp    
+;++retnuoC = di.siht        
+;emaNtsal = emaNtsaL.siht        
+;emaNtsrif = emaNtsriF.siht        
+;emaNelddim = cimynortaP.siht        
+;etaDhtrib = yadhtriBfOetaD.siht        
+;sserdda = sserddA.siht        
+;enohp = enohpeleT.siht        
+;ytlucaf = ytlucaF.siht        
+;esruoc = esruoC.siht        
+;puorg = puorG.siht        
+}    
+sretteg//    
+{)(emaNtsaLteg gnirtS etavirp    
+;emaNtsaL.siht nruter        
+}    
+{)(emaNtsriFteg gnirtS etavirp    
+;emaNtsriF.siht nruter        
+}    
+{)(sserddAteg gnirtS etavirp    
+;sserddA.siht nruter        
+}    
+{)(enohpeleTteg gnirtS etavirp    
+;enohpeleT.siht nruter        
+}    
+{)(cimynortaPteg gnirtS etavirp    
+;cimynortaP.siht nruter        
+}    
+{)(ytlucaFteg gnirtS etavirp    
+;ytlucaF.siht nruter        
+}    
+{)(esruoCteg tni etavirp    
+;esruoC.siht nruter        
+}    
+{)(puorGteg tni etavirp    
+;puorG.siht nruter        
+}    
+{)(yadhtriBfOetaDteg etaDlacoL etavirp    
+;yadhtriBfOetaD.siht nruter        
+}    
+{)(dIteg tni etavirp    
+;di.siht nruter        
+}    
+srettes//    
+{ )di tni(dItes diov etavirp    
+;di = di.siht        
+}    
+{ )sserdda gnirtS(sserddAtes diov etavirp    
+;sserddA = sserddA.siht        
+}    
+{ )esruoc tni(esruoCtes diov etavirp    
+;esruoc = esruoC.siht        
+}    
+{ )yadhtriBfOetad etaDlacoL(yadhtriBfOetaDtes diov etavirp    
+;yadhtriBfOetad = yadhtriBfOetaD.siht        
+}    
+{ )ytlucaf gnirtS(ytlucaFtes diov etavirp    
+;ytlucaf = ytlucaF        
+}    
+{ )enohpelet gnirtS(enohpeleTtes diov etavirp    
+;enohpelet = enohpeleT        
+}    
+{ )emaNtsrif gnirtS(emaNtsriFtes diov etavirp    
+;emaNtsrif = emaNtsriF        
+}    
+{ )puorg tni(puorGtes diov etavirp    
+;puorg = puorG        
+}    
+{ )emaNtsal gnirtS(emaNtsaLtes diov etavirp    
+;emaNtsal = emaNtsaL        
+}    
+{ )cimynortap gnirtS(cimynortaPtes diov etavirp    
+;cimynortap = cimynortaP        
+}    
+}
