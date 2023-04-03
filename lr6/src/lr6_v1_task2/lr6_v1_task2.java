@@ -16,7 +16,7 @@ public class lr6_v1_task2 {
         double meanI = 0.0;
         double meanU = 0.0;
 
-        // Calculate sum of I*U, sum of I^2, mean I and mean U
+
         while (!currentQueue.isEmpty() && !voltageQueue.isEmpty()) {
             double current = currentQueue.poll();
             double voltage = voltageQueue.poll();
@@ -29,7 +29,7 @@ public class lr6_v1_task2 {
         meanI /= n;
         meanU /= n;
 
-        // Calculate R
+
         double R = (sumIU - n * meanI * meanU) / (sumI2 - n * Math.pow(meanI, 2));
 
 
